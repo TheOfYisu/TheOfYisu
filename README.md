@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jesus Garizao</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🔭 I am currently studying at **UIB**
+- 🔭 I am currently studying at **IUB**
 
 - 🌱 I’m currently learning **Nest.JS**
 
