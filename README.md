@@ -1,12 +1,4 @@
 <div align="center">
-  <a href="https://github.com/TheOfYisu">
-    <img src="https://avatars.githubusercontent.com/u/80540333?v=4" width="150" style="border-radius: 50%; border: 3px solid #3B82F6;" alt="TheOfYisu" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Hola%2C+soy+TheOfYisu;Full+Stack+Developer;Systems+Analyst;Telematic+Engineering;Open+Source+Lover" />
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hola%2C+soy+TheOfYisu;Full+Stack+Developer;Systems+Analyst;Telematic+Engineering;Open+Source+Lover" />
@@ -203,9 +195,3 @@ _Systems Analyst & Full Stack Developer with hands-on experience in web applicat
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-  <samp>Hecho con ❤️ por <b>Jesús Garizao (TheOfYisu)</b></samp>
-</div>
