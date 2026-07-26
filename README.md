@@ -35,13 +35,6 @@
 <br/>
 
 <div align="center">
-  <h3>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20" valign="middle"/>
-    &nbsp;Languages & Frameworks
-  </h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,java,python,html,css,angular,react,nestjs,laravel,nodejs,bootstrap,flask" />
-  </a>
   
   <h3>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="20" height="20" valign="middle"/>
@@ -79,6 +72,14 @@
   </h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,windows,vscode,idea,postman,figma,obsidian" />
+  </a>
+
+  <h3>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20" valign="middle"/>
+    &nbsp;Languages & Frameworks
+  </h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,php,java,python,html,css,angular,react,nestjs,laravel,nodejs,bootstrap,flask" />
   </a>
 </div>
 
