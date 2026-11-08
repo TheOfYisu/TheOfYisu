@@ -16,6 +16,9 @@
     <a href="mailto:jesudgm.11@outlook.com">
       <img src="https://img.shields.io/badge/Contacto-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
     </a>
+    <a href="https://ko-fi.com/theofyisus" target="_blank">
+      <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+    </a>
     <!-- Descomentar cuando las tiendas sean públicas:
     <a href="https://apps.apple.com/us/app/cajita-app/id6808463218" target="_blank">
       <img src="https://img.shields.io/badge/Cajita_App-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" />
@@ -134,5 +137,10 @@ Ingeniero Telemático y estudiante de **Especialización en Gerencia de TI y Cib
 ---
 
 <div align="center">
+  <p><sub>¿Te resultan útiles mis proyectos open-source o deseas apoyar mi desarrollo independiente?</sub></p>
+  <a href="https://ko-fi.com/theofyisus" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" />
+  </a>
+  <br/><br/>
   <sub>© 2026 Jesús Daniel Garizao Mejía (@TheOfYisu) · Construyendo software seguro, eficiente y con propósito.</sub>
 </div>
