@@ -13,7 +13,7 @@
     <a href="https://linkedin.com/in/jesudgm" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:jesudgm.11@outlook.com">
+    <a href="mailto:jesudgm.11@gmail.com">
       <img src="https://img.shields.io/badge/Contacto-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
     </a>
     <a href="https://ko-fi.com/theofyisus" target="_blank">
